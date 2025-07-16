@@ -1,5 +1,7 @@
 # 🌱 Sistem Terpadu UMKM, Koperasi, dan Bank Sampah Desa Sejahtera
 
+![img](https://github.com/Almar-Reza-Maulana/umkm-koperasi-banksampah-exam/blob/main/ariungoo-batzorig-EateEvcnQKw-unsplash.jpg)
+
 ## ✨ Tentang Proyek Ini
 Proyek ini dirancang untuk mendukung pemberdayaan ekonomi lokal dan edukasi lingkungan melalui sistem pengelolaan UMKM, koperasi, dan bank sampah berbasis Python. Dengan pendekatan OOP (Object-Oriented Programming), sistem ini menyatukan pengelolaan anggota, transaksi koperasi, serta kontribusi terhadap pengumpulan dan daur ulang sampah.
 
